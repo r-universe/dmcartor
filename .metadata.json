@@ -1,5 +1,9 @@
 [
   {
+    "package": "MDMR",
+    "oncran": true
+  },
+  {
     "package": "MVLM",
     "oncran": true
   }

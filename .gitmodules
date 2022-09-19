@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MDMR"]
+	path = MDMR
+	url = https://github.com/dmcartor/mdmr
+	shallow = true
+	registered = true
 [submodule "MVLM"]
 	path = MVLM
 	url = https://github.com/dmcartor/mvlm
