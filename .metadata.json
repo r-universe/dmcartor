@@ -1,10 +1,10 @@
 [
   {
-    "package": "MDMR",
+    "package": "MVLM",
     "oncran": true
   },
   {
-    "package": "MVLM",
+    "package": "MDMR",
     "oncran": true
   }
 ]
