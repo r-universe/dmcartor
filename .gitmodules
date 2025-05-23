@@ -5,6 +5,3 @@
 [submodule "MDMR"]
 	path = MDMR
 	url = https://github.com/dmcartor/mdmr
-[submodule "MVLM"]
-	path = MVLM
-	url = https://github.com/dmcartor/mvlm
